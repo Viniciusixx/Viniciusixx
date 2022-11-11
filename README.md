@@ -19,5 +19,7 @@
 <img align='center' alt='html5' src='https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white'/>
 <img align='center' alt='html5' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=whitete'/>
 <img align='center' alt='html5' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
-
+  
+![Snake animation](https://github.com/Viniciusixx/Viniciusixx/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
