@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Viniciusixx) 
 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusixx&show_icons=true&theme=tokyonight)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusixx&show_icons=true&theme=onetokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
