@@ -1,13 +1,11 @@
 
-<div align='center'>
- 
-### Olá! Sou o Vinicius de Souza 👋 
-
-</div>  
+<p align="center">
+  <a href="https://github.com/Viniciusixx"><img src="https://images2.imgbox.com/9c/80/KFpBjH2f_o.png" width='300px' alt="Vinícius de Souza" /></a>
+</p>
 
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=03FF00DF&center=true&vCenter=true&width=600&height=70&lines=Focando+no+melhor+da+Programação;🚀+Melhoria+contínua+sempre+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=03FF00DF&center=true&vCenter=true&width=600&height=70&lines=Focando+no+melhor+da+Programação;🚀+Melhoria+contínua+sempre+)](https://git.io/typing-svg)
 </div>
   
 <div align='center'>
